@@ -1,5 +1,7 @@
 # Husig | AI Solutions
 
+![](https://husig.ai/images/aboutus/about_us_hero.webp)
+
 ## Bespoke AI Solutions Built for You
 
 We craft tailored artificial intelligence solutions that transform how businesses operate. Starting from wherever you are today, we partner with you to become truly AI native.
@@ -28,6 +30,8 @@ Unique challenges require unique solutions. We design and build tailored AI syst
 ---
 
 ## Get in Touch
+
+![](https://husig.ai/images/homepage/article/two.webp)
 
 - 🌐 Website: [https://husig.ai](https://husig.ai)  
 - ✉️ Email: `ayush@husig.ai` (or contact via website form)
