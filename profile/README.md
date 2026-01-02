@@ -34,7 +34,7 @@ Unique challenges require unique solutions. We design and build tailored AI syst
 ![](https://husig.ai/images/homepage/article/two.webp)
 
 - 🌐 Website: [https://husig.ai](https://husig.ai)  
-- ✉️ Email: `ayush@husig.ai` (or contact via website form)
+- ✉️ Email: `contact@husig.ai` (or contact via website form)
 
 ---
 
