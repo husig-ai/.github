@@ -1,6 +1,9 @@
 # Husig | AI Solutions
 
-![](https://husig.ai/images/aboutus/about_us_hero.webp)
+
+
+<a href="url"><img src="https://husig.ai/images/aboutus/about_us_hero.webp" align="center" height="512" width="512" ></a>
+
 
 ## Bespoke AI Solutions Built for You
 
@@ -31,7 +34,8 @@ Unique challenges require unique solutions. We design and build tailored AI syst
 
 ## Get in Touch
 
-![](https://husig.ai/images/homepage/article/two.webp)
+<a href="url"><img src="https://husig.ai/images/homepage/article/two.webp" align="center" height="512" width="512" ></a>
+
 
 - 🌐 Website: [https://husig.ai](https://husig.ai)  
 - ✉️ Email: `contact@husig.ai` (or contact via website form)
